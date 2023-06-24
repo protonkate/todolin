@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todolin/static/css/main.405ea673.css",
+    "main.js": "/todolin/static/js/main.ec0be8b6.js",
+    "index.html": "/todolin/index.html",
+    "main.405ea673.css.map": "/todolin/static/css/main.405ea673.css.map",
+    "main.ec0be8b6.js.map": "/todolin/static/js/main.ec0be8b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.405ea673.css",
+    "static/js/main.ec0be8b6.js"
+  ]
+}
